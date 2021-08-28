@@ -89,7 +89,7 @@
             this.Controls.Add(this.NodeText);
             this.Controls.Add(this.Node);
             this.Name = "FirstPage";
-            this.Text = "Discrete Mathematics Project";
+            this.Text = "BFS & DFS Visualizer";
             this.Load += new System.EventHandler(this.FirstPage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -76,7 +76,7 @@
             this.Controls.Add(this.DFS);
             this.Controls.Add(this.BFS);
             this.Name = "FourthPage";
-            this.Text = "Discrete Mathematics Project";
+            this.Text = "BFS & DFS Visualizer";
             this.Load += new System.EventHandler(this.FourthPage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

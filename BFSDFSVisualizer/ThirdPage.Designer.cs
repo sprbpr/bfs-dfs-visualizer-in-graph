@@ -89,7 +89,7 @@
             this.Controls.Add(this.StartText);
             this.Controls.Add(this.Start);
             this.Name = "ThirdPage";
-            this.Text = "Discrete Mathematics Project";
+            this.Text = "BFS & DFS Visualizer";
             this.Load += new System.EventHandler(this.ThirdPage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1574, 1529);
             this.Name = "FinalPage";
-            this.Text = "Discrete Mathematics Project";
+            this.Text = "BFS & DFS Visualizer";
             this.Load += new System.EventHandler(this.FinalPage_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.FinalPage_Paint);
             this.ResumeLayout(false);

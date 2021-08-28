@@ -128,7 +128,7 @@
             this.Controls.Add(this.Node1Text);
             this.Controls.Add(this.Node1);
             this.Name = "SecondPage";
-            this.Text = "Discrete Mathematics Project";
+            this.Text = "BFS & DFS Visualizer";
             this.Load += new System.EventHandler(this.SecondPage_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
